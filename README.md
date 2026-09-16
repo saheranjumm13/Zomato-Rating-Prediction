@@ -64,4 +64,5 @@ streamlit run app.py
 
 After running the command, Streamlit will provide a local URL such as:
 http://localhost:8501
+
 Open this URL in your browser to use the Zomato Rating Prediction application.
